@@ -31,7 +31,7 @@ public class Carte {
 	}
 
 	public int getValeur() {
-		if (valeur == 1) return 14;
+		if (valeur == 1) return 14; // c'est l'As, il faut qu'elle bat les restes 
 		return valeur;
 	}
 

@@ -4,7 +4,7 @@ public class Bataille {
 
 	public static void main(String[] args) {
 		
-		ArrayList <Carte> cartes = new ArrayList <Carte>();// va contenir l'ensemble des cartes
+		ArrayList <Carte> cartes = new ArrayList <Carte>(); // va contenir l'ensemble des cartes
 		
 		for (String couleur : Donnees.couleurs) {
 			
